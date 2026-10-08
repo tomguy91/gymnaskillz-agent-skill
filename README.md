@@ -29,8 +29,8 @@
 צריך: Python 3 וחשבון מתאמן ב‑GymnaskillZ (המספר שאליו מגיע קוד ה‑SMS).
 
 ```bash
-git clone https://github.com/tomguy91/gymnaskillz-app-skill.git
-cd gymnaskillz-app-skill
+git clone https://github.com/tomguy91/gymnaskillz-agent-skill.git
+cd gymnaskillz-agent-skill
 
 python3 scripts/gym.py login send --phone 9725XXXXXXX   # קוד בן 4 ספרות ב‑SMS
 python3 scripts/gym.py login verify 1234                # מתחברים

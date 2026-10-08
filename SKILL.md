@@ -1,5 +1,5 @@
 ---
-name: gymnaskillz-app
+name: gymnaskillz-agent
 category: productivity
 description: Use when touching GymnaskillZ on Boostapp (client area). CLI + verified endpoint map for the class schedule, account, cards and the OTP login.
 version: 1.0.0
