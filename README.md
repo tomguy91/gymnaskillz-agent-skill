@@ -1,12 +1,6 @@
-<p align="center">
-  <img src="assets/logo.png" alt="GymnaskillZ" width="170">
-</p>
+![GymnaskillZ](assets/logo.png)
 
-<h1 align="center">GymnaskillZ · הסוכן האישי שלך לסטודיו 💪</h1>
-
-<p align="center">
-  🌐 <a href="https://gymnaskillz.co.il">gymnaskillz.co.il</a> &nbsp;·&nbsp; 📍 יצחק שדה 32, תל אביב
-</p>
+# GymnaskillZ · הסוכן האישי שלך לסטודיו 💪
 
 **רוצים להזמין שיעור בלי להיכנס לאפליקציה?** הסקיל הזה מחבר את הסוכן האישי שלכם (Claude / ChatGPT / Hermes / כל סוכן תומך) לחשבון המתאמן שלכם ב‑GymnaskillZ, ונותן לכם לשלוט בלוח השיעורים שלכם בשיחה פשוטה.
 
@@ -71,7 +65,5 @@ python3 scripts/gym.py book 26633613 --yes     # הרשמה לשיעור
 
 ---
 
-<p align="center">
-  נתקעתם? שאלו בצוות הסטודיו 🙌<br>
-  🌐 <a href="https://gymnaskillz.co.il">gymnaskillz.co.il</a> · 📍 יצחק שדה 32, תל אביב
-</p>
+נתקעתם? שאלו בצוות הסטודיו 🙌
+🌐 [gymnaskillz.co.il](https://gymnaskillz.co.il) · 📍 יצחק שדה 32, תל אביב
